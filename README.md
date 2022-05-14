@@ -4,4 +4,4 @@ node + express
 
 初始化 npm install
 
-入口文件 bin/www.js
+入口文件 bin/www
